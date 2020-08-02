@@ -3,7 +3,9 @@
 - [2019.11 ChrisMcCormickAI: BERT Research - Ep. 1 - Key Concepts & Sources](https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)<br>
 - [Jay Alammar: The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning](http://jalammar.github.io/illustrated-bert/)<br>
 [google search results](https://www.google.com/search?q=BERT+and+other+transformers&rlz=1C1GCEA_enUS800US800&oq=bert&aqs=chrome.2.69i57j0j69i59j46l2j69i64l3.5639j0j7&sourceid=chrome&ie=UTF-8)<br>
-[]()<br>
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova](https://arxiv.org/abs/1810.04805)<br>
+
 []()<br>
 []()<br>
 []()<br>
