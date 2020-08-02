@@ -7,7 +7,9 @@
     - BERT vocab sz = 30k, words are embedded into R^768
     - Instead of working with sequence of words BERT works with sequence of embeddings.
     - individual values inside feature vectors do not matter - relative proximity of vectors matters
+    - word piece model: (1) "embedding" = "em" "##bed" "##ding". BERT get 3 tokens (subwords) out of 1 word, (2)'kroxldyphivc' -> k-##ro-##x-##ld-##yp-##hi-##vc, (3) bedding -> bed-##ding
 - [Blog: http://mccormickml.com/2019/11/11/bert](http://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)<br>
+
 - [Jay Alammar: The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning](http://jalammar.github.io/illustrated-bert/)<br>
 [google search results](https://www.google.com/search?q=BERT+and+other+transformers&rlz=1C1GCEA_enUS800US800&oq=bert&aqs=chrome.2.69i57j0j69i59j46l2j69i64l3.5639j0j7&sourceid=chrome&ie=UTF-8)<br>
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
