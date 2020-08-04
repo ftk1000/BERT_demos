@@ -24,7 +24,7 @@ Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova](https://arxiv.org/
 
 # Summarization
 [EVALUATION MEASURES FOR TEXT SUMMARIZATION, J.Steinberger et al, Computing and Informatics, Vol. 28, 2009, 1001–1026, V 2009-Mar-2 ](http://www.cai.sk/ojs/index.php/cai/article/viewFile/37/24)<br>
-[2017: A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION Romain Paulus, Caiming Xiong & Richard Socher](https://arxiv.org/pdf/1705.04304.pdf)<br>
+[2017: A DEEP REINFORCED MODEL FOR ABSTRACTIVE SUMMARIZATION Romain Paulus, Caiming Xiong & Richard Socher](https://arxiv.org/pdf/1705.04304.pdf)<br> HAS GOOD DATASETS
 []()<br>
 []()<br>
 []()<br>
