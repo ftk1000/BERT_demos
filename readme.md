@@ -35,18 +35,14 @@ Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova](https://arxiv.org/
 # Summarization Metrics
 
 * [Bleu measures precision: how much the words (and/or n-grams) in the machine generated summaries appeared in the human reference summaries.](https://stackoverflow.com/questions/38045290/text-summarization-evaluation-bleu-vs-rouge)
- - [Bleu: a Method for Automatic Evaluation of Machine Translation](http://www1.cs.columbia.edu/nlp/sgd/bleu.pdf)
+   - [Bleu: a Method for Automatic Evaluation of Machine Translation](http://www1.cs.columbia.edu/nlp/sgd/bleu.pdf)
 
 * Rouge measures recall: how much the words (and/or n-grams) in the human reference summaries appeared in the machine generated summaries.
   - [How Rogue works](http://text-analytics101.rxnlp.com/2017/01/how-rouge-works-for-evaluation-of.html)
 * F1 measure to make the metrics work together: F1 = 2  (Bleu  Rouge) / (Bleu + Rouge)
 
-# SUMMARY EVALUATION
-
 ## [Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
-
-$$\displaystyle  recall = \frac{tp}{tp + fn}  = \frac{relevant\quad AND\quad retrieved}{relevant}$$
-
-$$\displaystyle  precision = \frac{tp}{tp + fp} = \frac{relevant\quad AND\quad retrieved}{retrieved}$$
+   - $$\displaystyle  recall = \frac{tp}{tp + fn}  = \frac{relevant\quad AND\quad retrieved}{relevant}$$
+   - $$\displaystyle  precision = \frac{tp}{tp + fp} = \frac{relevant\quad AND\quad retrieved}{retrieved}$$
 
 
