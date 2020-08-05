@@ -8,7 +8,7 @@
     - Instead of working with sequence of words BERT works with sequence of embeddings.
     - individual values inside feature vectors do not matter - relative proximity of vectors matters
     - word piece model: (1) "embedding" = "em" "##bed" "##ding". BERT get 3 tokens (subwords) out of 1 word, (2)'kroxldyphivc' -> k-##ro-##x-##ld-##yp-##hi-##vc, (3) bedding -> bed-##ding
-    - Vocab: 1=[PAD], 101=[UNK], 102=[CLS], 103=[SEP], 104=[MASK], 1000=!, 1001=\"
+    - Vocab: 1=[PAD], 101=[UNK], 102=[CLS], 103=[SEP], 104=[MASK], 1000=!, 1001=\", 7607=##mus
 - [Blog: http://mccormickml.com/2019/11/11/bert](http://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)<br>
 
 - [Jay Alammar: The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning](http://jalammar.github.io/illustrated-bert/)<br>
