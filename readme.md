@@ -11,7 +11,7 @@
     - Vocab: 1=[PAD], 101=[UNK], 102=[CLS], 103=[SEP], 104=[MASK], 1000=!, 1001=\", 7607=##mus, 7613=1873
 - [Blog: http://mccormickml.com/2019/11/11/bert](http://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)<br>    
     - BERT was trained on two “fake tasks”: “Masked Word Prediction” and “Next Sentence Prediction”.
-    - BERT is trained on these fake tasks because, as a byproduct of learning to do these tasks, it develops the ability to make sense of human language.
+    - As a byproduct of learning to do these tasks, it develops the ability to make sense of human language.
     - Once the training is finished, we strip off the final layer(s) of the model which were specific to the fake task, and then apply BERT to the tasks that we actually care about.
     - coming up with these two “fake tasks” is the real innovation of BERT–otherwise it’s just a large stack of Transformers, which had already been around.
     - another key contribution might be Google researchers having the text data, compute resources, and audacity to train such a huge model :).
