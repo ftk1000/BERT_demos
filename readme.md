@@ -20,8 +20,8 @@
 <details>
   <summary> Ep.3 Fine Tuning p.1 (2019.12)<br>    </summary>
     - https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=3 <br>
-    - <br>
-    - <br>
+    - Pros of Fine Tuning: (1) Quick Development, (2) Less Data needed, (3) Better results <br>
+    - Cons: (1) BERT is a very large model: 105M weights (Embedding layer: 24M weights, 12 layers of Transformers=12*7M=84M)<br>
     - <br>
 </details>
     
