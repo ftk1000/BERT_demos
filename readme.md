@@ -21,7 +21,8 @@
   <summary> Ep.3 Fine Tuning p.1 (2019.12)<br>    </summary>
     - https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=3 <br>
     - Pros of Fine Tuning: (1) Quick Development, (2) Less Data needed, (3) Better results <br>
-    - Cons: (1) BERT is a very large model: 109M weights = 109*10^6*4(Bytes)/1024/1024 = 416 MBytes (Embedding layer: 24M weights, 12 layers of Transformers=12*7M=84M)<br>
+    - Cons-1: BERT is a very large model: 109M weights = 109*10^6*4(Bytes)/1024/1024 = 416 MBytes (Embedding layer: 24M weights, 12 layers of Transformers=12*7M=84M)<br>
+    - Cons-2: Slow to train, eg 10k sentence classifications with 4 epochs on GPU at colab takes ~ 10 mins <br>
     - <br>
 </details>
     
