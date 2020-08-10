@@ -3,7 +3,7 @@
 - [2019.11 ChrisMcCormickAI: BERT Research - Ep. 1 - Key Concepts & Sources](https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)<br>
     - BERT <- Transformer <- [LSTM w/ Attention] <- [Encoder/Decoder + Bi-LSTM] <- [RNN + LSTM]
     - Bogus tasks: (1) Masked Language Model, (2) Next Sentence Prediction
-- [2019.11: BERT Research - Ep. 2 - WordPiece Embeddings](https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=2)<br>
+- [2019.11: ChrisMcCormickAI BERT Research - Ep. 2 - WordPiece Embeddings](https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=2)<br>
     - BERT vocab sz = 30k, words are embedded into R^768
     - Instead of working with sequence of words BERT works with sequence of embeddings.
     - individual values inside feature vectors do not matter - relative proximity of vectors matters
@@ -22,8 +22,9 @@
 Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova](https://arxiv.org/abs/1810.04805)<br>
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)<br>
 
+[2019.12: ChrisMcCormickAI BERT Research - Ep. 3 : Fine Tuning - p.1](https://www.youtube.com/watch?v=x66kkDnbzi4&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=3)<br>
 []()<br>
-[]()<br>
+
 []()<br>
 []()<br>
 []()<br>
