@@ -2,9 +2,10 @@
 # BERT (Oct 2018) is good for: 
 <details>
   <summary>
- - [2019.11 ChrisMcCormickAI: BERT Research - Ep. 1 - Key Concepts & Sources](https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+ - [2019.11 ChrisMcCormickAI: BERT Research - Ep. 1 - Key Concepts & Sources]<br>
+    (https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
     </summary>
-    - BERT <- Transformer <- [LSTM w/ Attention] <- [Encoder/Decoder + Bi-LSTM] <- [RNN + LSTM]
+    - BERT <- Transformer <- [LSTM w/ Attention] <- [Encoder/Decoder + Bi-LSTM] <- [RNN + LSTM]<br>
     - Bogus tasks: (1) Masked Language Model, (2) Next Sentence Prediction
 </details>
 
