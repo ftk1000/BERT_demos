@@ -1,23 +1,28 @@
 2020.02.02
-# BERT (Oct 2018) is good for: 
+# ChrisMcCormickAI: BERT Research 
 <details>
-  <summary> - [2019.11 ChrisMcCormickAI: BERT Research - Ep. 1 - Key Concepts & Sources]<br>    </summary>
+  <summary> - Ep.1 Key Concepts & Sources (2019.11)<br>    </summary>
     - https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6 <br>
     - BERT <- Transformer <- [LSTM w/ Attention] <- [Encoder/Decoder + Bi-LSTM] <- [RNN + LSTM]<br>
     - Bogus tasks: (1) Masked Language Model, (2) Next Sentence Prediction
 </details>
 
-
-# BERT (Oct 2018) is good for: 
-- [2019.11 ChrisMcCormickAI: BERT Research - Ep. 1 - Key Concepts & Sources](https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)<br>
-    - BERT <- Transformer <- [LSTM w/ Attention] <- [Encoder/Decoder + Bi-LSTM] <- [RNN + LSTM]
-    - Bogus tasks: (1) Masked Language Model, (2) Next Sentence Prediction
-- [2019.11: ChrisMcCormickAI BERT Research - Ep. 2 - WordPiece Embeddings](https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=2)<br>
+<details>
+  <summary> - Ep.2 WordPiece Embeddings (2019.11)<br>    </summary>
+    - https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=2 <br>
     - BERT vocab sz = 30k, words are embedded into R^768
     - Instead of working with sequence of words BERT works with sequence of embeddings.
     - individual values inside feature vectors do not matter - relative proximity of vectors matters
-    - word piece model: (1) "embedding" = "em" "##bed" "##ding". BERT get 3 tokens (subwords) out of 1 word, (2)'kroxldyphivc' -> k-##ro-##x-##ld-##yp-##hi-##vc, (3) bedding -> bed-##ding
+    - word piece model: (1) "embedding" = "em" "##bed" "##ding". BERT get 3 tokens (subwords) out of 1 word, (2)'kroxldyphivc' -> k-##ro-##x-##ld-##yp-##hi-##vc,  (3) bedding -> bed-##ding
     - Vocab: 1=[PAD], 101=[UNK], 102=[CLS], 103=[SEP], 104=[MASK], 1000=!, 1001=\", 7607=##mus, 7613=1873
+</details>
+    
+    
+
+
+# BERT (Oct 2018) is good for: 
+- [2019.11 ChrisMcCormickAI: BERT Research - Ep. 1 - Key Concepts & Sources](https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)<br>
+- [2019.11: ChrisMcCormickAI BERT Research - Ep. 2 - WordPiece Embeddings](https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=2)<br>
 - [Blog: http://mccormickml.com/2019/11/11/bert](http://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)<br>    
     - BERT was trained on two “fake tasks”: “Masked Word Prediction” and “Next Sentence Prediction”.
     - As a byproduct of learning to do these tasks, it develops the ability to make sense of human language.
