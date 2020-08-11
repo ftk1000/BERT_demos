@@ -27,7 +27,7 @@
     - Con-2: Slow to train, eg 10k sentence classifications with 4 epochs on GPU at colab takes ~ 10 mins <br>
     - Con-3: Slow inferencing - challenge for production deployment <br>
     - Con-4: Domain Specific Language <br>
-    - <br>
+    - code is from https://github.com/huggingface/transformers/blob/6695450a23545bc9d5416f39ab39609c7811c653/examples/text-classification/README.md <br>
     - <br>
     - <br>
 </details>
