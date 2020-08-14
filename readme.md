@@ -48,7 +48,7 @@
     <br>    </summary>
     - https://www.youtube.com/watch?v=Hnvb9b7a_Ps <br>
     - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType<br>
-    - Sec 4: BERTForSequenceClassification, OPTIMIZER n LearningRateScheduler, TriningLoop<br>
+    - Sec 4: BERTForSequenceClassification, OPTIMIZER n LearningRateScheduler, TrainingLoop<br>
 </details>
     
 <details>
