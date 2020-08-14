@@ -44,6 +44,14 @@
 </details>
     
 <details>
+  <summary> Ep.3 Fine Tuning p.2 (2019.12.19): Train Text Calssificatoin Model - Use BERTForSequenceClassification class from https://github.com/huggingface or https://huggingface.co/
+    <br>    </summary>
+    - https://www.youtube.com/watch?v=Hnvb9b7a_Ps <br>
+    - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType
+    - Sec 4: BERTForSequenceClassification, OPTIMIZER n LearningRateScheduler, TriningLoop
+</details>
+    
+<details>
   <summary> Blog: http://mccormickml.com/2019/11/11/bert <br>    </summary>
     - http://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/ <br>
     - BERT was trained on two “fake tasks”: “Masked Word Prediction” and “Next Sentence Prediction”. <br>
