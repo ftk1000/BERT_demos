@@ -26,7 +26,8 @@
 </details>   
     
 <details>
-  <summary> Ep.3 Fine Tuning p.1 (2019.12)<br>    </summary>
+  <summary> Ep.3 Fine Tuning p.1 (2019.12): Prepare CoLA (The Corpus of Linguistic Acceptability) data for taxt classification with BERT    
+    <br>    </summary>
     - https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=3 <br>
     - Pros-0 of Fine Tuning: (1) Quick Development, (2) Less Data needed, (3) Better results <br>
     - Pros-1: Good for: Text Classification, Named Entoty Recognition (NER), POS Tagging, Question + Answering part of text <br>
@@ -39,6 +40,7 @@
     - TF2   code: https://github.com/huggingface/transformers/blob/master/examples/text-classification/run_tf_glue.py<br>
     - Torch code: https://github.com/huggingface/transformers/blob/master/examples/text-classification/run_glue.py<br>
     - CoLA DATA SET: https://nyu-mll.github.io/CoLA/<br>
+    - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType
 </details>
     
 <details>
