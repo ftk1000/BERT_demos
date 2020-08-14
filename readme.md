@@ -1,4 +1,9 @@
 2020.02.02
+
+# Pipelines
+[huggingface quick-tour-of-pipelines](https://github.com/huggingface/transformers#quick-tour-of-pipelines)<br>
+[]()<br>
+
 # ChrisMcCormickAI: BERT Research 
 <details>
   <summary> Ep.1 Key Concepts & Sources (2019.11)<br>    </summary>
@@ -50,6 +55,7 @@
 - [2019.11: ChrisMcCormickAI BERT Research - Ep. 2 - WordPiece Embeddings](https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=2)<br>
 - [2019.12: ChrisMcCormickAI BERT Research - Ep. 3 : Fine Tuning - p.1](https://www.youtube.com/watch?v=x66kkDnbzi4&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=3)<br>
 
+[]()<br>
 []()<br>
 []()<br>
 
