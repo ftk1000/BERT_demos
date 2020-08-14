@@ -2,7 +2,10 @@
 
 # Pipelines
 [huggingface quick-tour-of-pipelines](https://github.com/huggingface/transformers#quick-tour-of-pipelines)<br>
+[hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)<br>
 []()<br>
+[]()<br>
+
 
 # ChrisMcCormickAI: BERT Research 
 <details>
