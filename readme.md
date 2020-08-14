@@ -40,15 +40,15 @@
     - TF2   code: https://github.com/huggingface/transformers/blob/master/examples/text-classification/run_tf_glue.py<br>
     - Torch code: https://github.com/huggingface/transformers/blob/master/examples/text-classification/run_glue.py<br>
     - CoLA DATA SET: https://nyu-mll.github.io/CoLA/<br>
-    - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType
+    - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType<br>
 </details>
     
 <details>
   <summary> Ep.3 Fine Tuning p.2 (2019.12.19): Train Text Calssificatoin Model - Use BERTForSequenceClassification class from https://github.com/huggingface or https://huggingface.co/
     <br>    </summary>
     - https://www.youtube.com/watch?v=Hnvb9b7a_Ps <br>
-    - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType
-    - Sec 4: BERTForSequenceClassification, OPTIMIZER n LearningRateScheduler, TriningLoop
+    - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType<br>
+    - Sec 4: BERTForSequenceClassification, OPTIMIZER n LearningRateScheduler, TriningLoop<br>
 </details>
     
 <details>
