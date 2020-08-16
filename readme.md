@@ -43,6 +43,7 @@
     - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, 
   TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType<br>
     - The ATTENTION_MASKS simply makes it explicit which tokens are actual words versus which are padding.
+    - model(..., labels) outputs LOSS, model(...) w/o labels outputs logits
 </details>
     
 <details>
