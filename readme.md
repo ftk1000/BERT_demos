@@ -42,16 +42,20 @@
     - CoLA DATA SET: https://nyu-mll.github.io/CoLA/<br>
     - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, 
   TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType<br>
-    - The ATTENTION_MASKS simply makes it explicit which tokens are actual words versus which are padding.
-    - model(..., labels) outputs LOSS, model(...) w/o labels outputs logits
+    - The ATTENTION_MASKS simply makes it explicit which tokens are actual words versus which are padding.<br>
 </details>
     
 <details>
   <summary> Ep.3 Fine Tuning p.2 (2019.12.19): Train Text Calssificatoin Model - Use BERTForSequenceClassification class from https://github.com/huggingface or https://huggingface.co/
     <br>    </summary>
-    - https://www.youtube.com/watch?v=Hnvb9b7a_Ps <br>
+    - VIDEO: https://www.youtube.com/watch?v=Hnvb9b7a_Ps <br>
+    - CODE: https://colab.research.google.com/github/ftk1000/BERT_demos/blob/master/BERT_Fine_Tuning_Sentence_Classification.ipynb#scrollTo=GLs72DuMODJO<br>
     - Sec 3: TOKENIZE, FORMATTING (Special Tokens, Attention Mask), SEQUENCES->IDs, PADDING_n_TRUNCATING, ATTENTION_MASKS, TRAIN_VALIDATION_SPLIT, CONVERT_2_PyTorch_DataType<br>
     - Sec 4: BERTForSequenceClassification, OPTIMIZER n LearningRateScheduler, TrainingLoop<br>
+    - model.train(), model.eval() sets flags<br>
+    - model(..., labels) outputs LOSS, model(...) w/o labels outputs logits<br>
+    - model() always returns a tuple [] : loss = output[0] <br>
+    - loss.backward()   : calculates gradients <br>
 </details>
     
 <details>
