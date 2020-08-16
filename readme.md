@@ -56,6 +56,8 @@
     - model(..., labels) outputs LOSS, model(...) w/o labels outputs logits<br>
     - model() always returns a tuple [] : loss = output[0] <br>
     - loss.backward()   : calculates gradients <br>
+    - model(), opimizer(), and scheduler() are referencing each other : during the initialization of optimizer() we pass to it model.parameters, etc <br>
+    - perf metric for this task = Mathew correlation coef [-1,1]. It is used because the original data set is unbalanced.<br> 
 </details>
     
 <details>
@@ -85,6 +87,7 @@
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova](https://arxiv.org/abs/1810.04805)<br>
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)<br>
+- [2019: Kaggle Coffee Chat: Jacob Devlin (Google Researcher, BERT author)](https://www.youtube.com/watch?v=u91645MFytY)<br>
 
 
 []()<br>
