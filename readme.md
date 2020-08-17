@@ -6,6 +6,8 @@
 []()<br>
 []()<br>
 
+# Abhishek Thakur
+- [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
 
 # ChrisMcCormickAI: BERT Research 
 <details>
