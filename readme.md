@@ -9,7 +9,7 @@
 # Abhishek Thakur
 - [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
 
-# ChrisMcCormickAI: BERT Research 
+# ChrisMcCormickAI: BERT Research ([Buy all notebooks](https://www.chrismccormick.ai/offers/cEGFXP2Z/checkout))
 <details>
   <summary> Ep.1 Key Concepts & Sources (2019.11)<br>    </summary>
     - https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6 <br>
