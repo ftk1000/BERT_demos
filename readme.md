@@ -5,9 +5,14 @@
 [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)<br>
 []()<br>
 []()<br>
+[]()<br>
 
 # Abhishek Thakur
 - [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
+- [2019: Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle](https://www.youtube.com/watch?v=uWVR_axaVwk)<br>
+- []()<br>
+- []()<br>
+- []()<br>
 
 # ChrisMcCormickAI: BERT Research ([Buy all notebooks](https://www.chrismccormick.ai/offers/cEGFXP2Z/checkout))
 <details>
