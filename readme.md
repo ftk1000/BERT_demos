@@ -10,6 +10,7 @@
 # Abhishek Thakur
 - [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
 - [2019: Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle](https://www.youtube.com/watch?v=uWVR_axaVwk)<br>
+    - see 28:31 fot discussion on SVD<br>
 - []()<br>
 - []()<br>
 - []()<br>
