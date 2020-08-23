@@ -11,7 +11,8 @@
 - [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
 - [2019: Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle](https://www.youtube.com/watch?v=uWVR_axaVwk)<br>
     - see 28:31 fot discussion on SVD<br>
-- []()<br>
+- [Как мы победили с помощью CatBoost и AutoML — Александр Лелюк, Петр Гуринов](https://www.youtube.com/watch?v=cTnWvYJJRCY)<br>
+    - 1/ CatBoots + AUTO_ML;   2/ для совместной работы : KAGGLE NOTEBOOK <br>
 - []()<br>
 - []()<br>
 
