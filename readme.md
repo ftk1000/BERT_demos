@@ -9,6 +9,8 @@
 
 # Abhishek Thakur
 - [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
+    - [huggingface/tokenizers](https://github.com/huggingface/tokenizers)<br
+
 - [2020: Training Sentiment Model Using BERT and Serving it with Flask API](https://www.youtube.com/watch?v=hinZO--TEk4)<br>
 - [2019: Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle](https://www.youtube.com/watch?v=uWVR_axaVwk)<br>
     - see 28:31 fot discussion on SVD<br>
