@@ -3,18 +3,18 @@
 # Pipelines
 [huggingface quick-tour-of-pipelines](https://github.com/huggingface/transformers#quick-tour-of-pipelines)<br>
 [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)<br>
-[]()<br>
-[]()<br>
+[https://github.com/huggingface/tokenizers](https://github.com/huggingface/tokenizers)<br>
 []()<br>
 
 # Abhishek Thakur
 - [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
     - [huggingface/tokenizers](https://github.com/huggingface/tokenizers)<br>
-
+- [abhishekkrthakur/bert-entity-extraction](https://github.com/ftk1000/BERT_demos/blob/master/BERT_sent_encod_demo.ipynb)<br>
 - [2020: Training Sentiment Model Using BERT and Serving it with Flask API](https://www.youtube.com/watch?v=hinZO--TEk4)<br>
 - [2019: Approaching (almost) Any Machine Learning Problem | by Abhishek Thakur | Kaggle Days Dubai | Kaggle](https://www.youtube.com/watch?v=uWVR_axaVwk)<br>
     - see 28:31 fot discussion on SVD<br>
 - [2020: Tips To Build A Good Data Science / Machine Learning Project (For Your Portfolio)](https://www.youtube.com/watch?v=_DFIPvNXvJk)<br>
+<br>
 - [2020: Talks # 9: Vladimir Iglovikov; Detecting Masked Faces In The Pandemic World](https://www.youtube.com/watch?v=VAg8pMJRbgA&t=698s)<br>
 - [Как мы победили с помощью CatBoost и AutoML — Александр Лелюк, Петр Гуринов](https://www.youtube.com/watch?v=cTnWvYJJRCY)<br>
     - 1/ CatBoots + AUTO_ML;   2/ для совместной работы : KAGGLE NOTEBOOK <br>
@@ -94,8 +94,8 @@
 - [2020.03: Applying BERT to Question Answering (SQuAD v1.1)](https://www.youtube.com/watch?v=l8ZYCvgGu0o&feature=youtu.be)<br>
 []()<br>
 []()<br>
-[]()<br>
-[]()<br>
+[COLAB: Question Answering with a Fine-Tuned BERT.ipynb](https://colab.research.google.com/drive/1uSlWtJdZmLrI3FCNIlUHFxwAJiSu2J0-#scrollTo=Kl6BECEXu4jH)<br>
+[COLAB: EXAMPLE OF SENTENCE ENCODING IN BERT](https://github.com/ftk1000/BERT_demos/blob/master/BERT_sent_encod_demo.ipynb)<br>
 []()<br>
 
     
