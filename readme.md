@@ -91,6 +91,10 @@
 - [2019.11: ChrisMcCormickAI BERT Research - Ep. 2 - WordPiece Embeddings](https://www.youtube.com/watch?v=zJW57aCBCTk&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=2)<br>
 - [2019.12: ChrisMcCormickAI BERT Research - Ep. 3 : Fine Tuning - p.1](https://www.youtube.com/watch?v=x66kkDnbzi4&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6&index=3)<br>
 - [2020.01: BERT Document Classification Tutorial with Code](https://www.youtube.com/watch?v=_eSGWNqKeeY)<br>
+- [2020.03: Applying BERT to Question Answering (SQuAD v1.1)](https://www.youtube.com/watch?v=l8ZYCvgGu0o&feature=youtu.be)<br>
+[]()<br>
+[]()<br>
+[]()<br>
 []()<br>
 []()<br>
 
