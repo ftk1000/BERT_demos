@@ -5,6 +5,8 @@
 [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service)<br>
 [https://github.com/huggingface/tokenizers](https://github.com/huggingface/tokenizers)<br>
 []()<br>
+[Multi-Class Classification With BERT & TensorFlow](https://analyticsindiamag.com/step-by-step-guide-to-implement-multi-class-classification-with-bert-tensorflow/)<br>
+
 
 # Abhishek Thakur
 - [2020.03: Text Extraction From a Corpus Using BERT (AKA Question Answering)](https://www.youtube.com/watch?v=XaQ0CBlQ4cY)<br>
