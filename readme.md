@@ -22,8 +22,12 @@
     - 1/ CatBoots + AUTO_ML;   2/ для совместной работы : KAGGLE NOTEBOOK <br>
 - []()<br>
 - []()<br>
+- []()<br>
+- 
+
 
 # ChrisMcCormickAI: BERT Research ([Buy all notebooks](https://www.chrismccormick.ai/offers/cEGFXP2Z/checkout))
+[2020: mccormick: existing-ner-tools](https://mccormickml.com/2020/05/19/existing-ner-tools/)<br>
 <details>
   <summary> Ep.1 Key Concepts & Sources (2019.11)<br>    </summary>
     - https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6 <br>
