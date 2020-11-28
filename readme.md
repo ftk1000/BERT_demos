@@ -1,4 +1,9 @@
 2020.02.02
+[Обучение модели естественного языка с BERT и Tensorflow](https://habr.com/ru/company/sberdevices/blog/527576/)<br>
+    - Сколько, каких GPU, сколько тренировали?: Сперва неделя претрейна на 32 V100 [Кристофари], затем 50 часов тюнинга на 16 V100 [DGX-2]
+[]()<br>
+[]()<br>
+[]()<br>
 
 # Pipelines
 [huggingface quick-tour-of-pipelines](https://github.com/huggingface/transformers#quick-tour-of-pipelines)<br>
